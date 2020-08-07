@@ -144,7 +144,10 @@ hr {
 @media(min-width: 767px){
   button{
     visibility: hidden;
-    left:200px;
+    
+  }
+  #collapsable-nav{
+    visibility: hidden;
   }
 
 }
